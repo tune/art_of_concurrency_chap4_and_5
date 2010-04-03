@@ -3,13 +3,16 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to art_of_concurrency_chap4_and_5's documentation!
+並行コンピューティグ技法 第４章&第５章レジュメ
 ==========================================================
 
-Contents:
+目次:
 
 .. toctree::
    :maxdepth: 2
+
+   chap4
+   chap5
 
 Indices and tables
 ==================
