@@ -9,7 +9,7 @@
 目次:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
    chap4
    chap5
